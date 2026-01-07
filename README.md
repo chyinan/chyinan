@@ -25,13 +25,12 @@
 ```typescript
 const chyinan = {
   role: "Android Geeker & Front-end Developer",
-  location: "🌴 On vacation",
   interests: [
     "Android Development",
     "Front-end Development", 
     "AI & Machine Learning",
     "Music Players",
-    "Desktop Automation"
+    "Vibe Coding"
   ],
   achievements: ["YOLO", "Pull Shark", "Quickdraw"],
   repositories: 37,
