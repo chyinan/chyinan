@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- 头像 -->
-  <img src="https://avatars.githubusercontent.com/u/60872708?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #58A6FF; margin-bottom: 20px;">
-  
   <!-- GitHub Profile 图片 -->
   <img src="Github Profile.png" width="60%" style="margin: 20px 0;">
   
@@ -103,20 +100,6 @@ const chyinan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chyinan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyinan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=chyinan&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-  
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -153,8 +136,6 @@ const chyinan = {
 <div align="center">
   
   ### 💝 如果我的项目对你有帮助，请给个 ⭐ Star！
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chyinan.chyinan&left_color=58A6FF&right_color=FF6B6B)
   
   ---
   
