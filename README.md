@@ -127,7 +127,7 @@ const chyinan = {
 - 🌱 学习业界前沿技术
 - 👯 寻找在开源项目上的合作机会
 - 💬 欢迎问我关于 Android、前端开发、AI 工具的问题
-- 📫 如何联系我: [GitHub Profile](https://github.com/chyinan)
+- 📫 如何联系我: chyinan2015@gmail.com
 - ⚡ 有趣的事实: 我喜欢Vibe Coding！
 
 ---
