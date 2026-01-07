@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- 头像 -->
-  <img src="https://avatars.githubusercontent.com/u/60872708?v=4" width="120" height="120" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/60872708?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #58A6FF; margin-bottom: 20px;">
   
   <!-- GitHub Profile 图片 -->
-  <img src="Github Profile.png" width="100%" style="margin: 20px 0;">
+  <img src="Github Profile.png" width="60%" style="margin: 20px 0;">
   
   # 👋 Hi, I'm chyinan
   
