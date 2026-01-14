@@ -76,17 +76,17 @@ const chyinan = {
 ### 🤖 AI & Machine Learning
 - **[WisePick](https://github.com/chyinan/WisePick)** - 基于 AI 的智能购物推荐应用 (Dart)
 - **[EasyLora](https://github.com/chyinan/EasyLora)** - LoRA 训练与标注小工具 (TypeScript/React/Python)
-- **[gemininixiang](https://github.com/chyinan/gemininixiang)** - AI 项目 (Python)
+- **[gemininixiang](https://github.com/chyinan/gemininixiang)** - AI逆向API项目 (Python)
 
 ### 🎵 Music & Media
-- **[Soundscape](https://github.com/chyinan/Soundscape)** - 美丽的沉浸式 Web 音乐播放器 (JavaScript/Tauri)
+- **[Soundscape](https://github.com/chyinan/Soundscape)** - 美丽的沉浸式音乐播放器 (JavaScript/Tauri)
 - **[liquid-glass-music-player](https://github.com/chyinan/liquid-glass-music-player)** - 具有"液体玻璃"效果的专辑封面音乐播放器 (CSS)
 - **[dolby-encoder-gui](https://github.com/chyinan/dolby-encoder-gui)** - Dolby 编码引擎的开源 GUI (C/JavaScript/Electron)
 
 ### 🌐 Web Applications
-- **[mini-rednote](https://github.com/chyinan/mini-rednote)** - 功能完整的社交分享平台 (Vue)
+- **[mini-rednote](https://github.com/chyinan/mini-rednote)** - 前后端功能完整的社交分享平台 (Vue)
 - **[puresing](https://github.com/chyinan/puresing)** - 基于 Web 的现代化 KTV 应用 (JavaScript)
-- **[IKUN_Manager](https://github.com/chyinan/IKUN_Manager)** - 基于 Vue3 + Element Plus + TypeScript 的人力资源管理系统 (Vue/TypeScript/Electron)
+- **[IKUN_Manager](https://github.com/chyinan/IKUN_Manager)** - 基于 Vue3 + Element Plus + TypeScript 的高校统一信息管理系统 (Vue/TypeScript/Electron)
 
 ### 🛠️ Tools & Automation
 - **[mcp_word_editer](https://github.com/chyinan/mcp_word_editer)** - 轻量级的 MCP WORD 文档文本处理与编辑工具 (Python)
@@ -94,7 +94,7 @@ const chyinan = {
 - **[BatchGenie](https://github.com/chyinan/BatchGenie)** - AI 驱动的批处理文件操作工具 (Python)
 
 ### 📱 Android & System
-- **[Asset-Management-System](https://github.com/chyinan/Asset-Management-System)** - 完全由 Agent 生成的大学期末 Java SpringBoot 作业项目 (Java)
+- **[Asset-Management-System](https://github.com/chyinan/Asset-Management-System)** - Java SpringBoot 作业项目 (Java)
 - 多个 Android Kernel 和 Recovery 构建项目
 
 ---
