@@ -24,7 +24,7 @@
 
 ```typescript
 const chyinan = {
-  role: "Android Geeker & Front-end Developer",
+  role: "Android Geeker & Full-Stack Developer",
   interests: [
     "Android Development",
     "Front-end Development", 
