@@ -5,7 +5,7 @@
   
   # 👋 Hi, I'm chyinan
   
-  ### 🎯 Android Geeker | Front-end Developer
+  ### 🎯 Android Geeker | Full-Stack Developer
   
   <p>
     <a href="https://github.com/chyinan">
