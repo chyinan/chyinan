@@ -29,7 +29,7 @@ const chyinan = {
     "Android Development",
     "Front-end Development", 
     "AI & Machine Learning",
-    "Music Players",
+    "Music Mixing & Remaster",
     "Vibe Coding"
   ],
   achievements: ["YOLO", "Pull Shark", "Quickdraw"],
