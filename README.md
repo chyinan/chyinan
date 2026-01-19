@@ -27,7 +27,7 @@ const chyinan = {
   role: "Android Geeker & Full-Stack Developer",
   interests: [
     "Android Development",
-    "Front-end Development", 
+    "Full-Stack Development", 
     "AI & Machine Learning",
     "Music Mixing & Remaster",
     "Vibe Coding"
