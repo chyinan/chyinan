@@ -33,7 +33,7 @@ const chyinan = {
     "Vibe Coding"
   ],
   achievements: ["YOLO", "Pull Shark", "Quickdraw"],
-  repositories: 37,
+  repositories: 41,
   followers: 2,
   following: 2
 };
@@ -51,6 +51,7 @@ const chyinan = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
@@ -70,6 +71,7 @@ const chyinan = {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/WASAPI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WASAPI">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </p>
 
@@ -83,6 +85,7 @@ const chyinan = {
 - **[Gemini-Reverse](https://github.com/chyinan/Gemini-Reverse)** - AI reverse API project (Python)
 
 ### 🎵 Music & Media
+- **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - 🎙️ Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
 - **[Soundscape](https://github.com/chyinan/Soundscape)** - Beautiful immersive music player (JavaScript/Tauri)
 - **[liquid-glass-music-player](https://github.com/chyinan/liquid-glass-music-player)** - Music player with "liquid glass" effect album covers (CSS)
 - **[dolby-encoder-gui](https://github.com/chyinan/dolby-encoder-gui)** - Open-source GUI for Dolby encoding engine (C/JavaScript/Electron)
