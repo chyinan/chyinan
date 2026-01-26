@@ -94,6 +94,7 @@ const chyinan = {
 - **[mini-rednote](https://github.com/chyinan/mini-rednote)** - Full-stack social sharing platform (Vue)
 - **[puresing](https://github.com/chyinan/puresing)** - Modern web-based KTV application (JavaScript)
 - **[IKUN_Manager](https://github.com/chyinan/IKUN_Manager)** - University unified information management system based on Vue3 + Element Plus + TypeScript (Vue/TypeScript/Electron)
+- **[Asset-Management-System](https://github.com/chyinan/Asset-Management-System)** - Java SpringBoot assignment project (Java/Vue)
 
 ### 🛠️ Tools & Automation
 - **[MCP Word Commander](https://github.com/chyinan/MCP-Word-Commander)** - Lightweight MCP WORD document text processing and editing tool (Python)
@@ -101,7 +102,6 @@ const chyinan = {
 - **[BatchGenie](https://github.com/chyinan/BatchGenie)** - AI-powered batch file operation tool (Python)
 
 ### 📱 Android & System
-- **[Asset-Management-System](https://github.com/chyinan/Asset-Management-System)** - Java SpringBoot assignment project (Java)
 - Multiple Android Kernel and Recovery build projects
 
 ---
