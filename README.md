@@ -86,6 +86,7 @@ const chyinan = {
 
 ### 🎵 Music & Media
 - **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - 🎙️ Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
+- **[uvr-headless-runner](https://github.com/chyinan/uvr-headless-runner)** - Production-ready UVR5 CLI & Docker image for SOTA audio separation (Python)
 - **[Soundscape](https://github.com/chyinan/Soundscape)** - Beautiful immersive music player (JavaScript/Tauri)
 - **[liquid-glass-music-player](https://github.com/chyinan/liquid-glass-music-player)** - Music player with "liquid glass" effect album covers (CSS)
 - **[dolby-encoder-gui](https://github.com/chyinan/dolby-encoder-gui)** - Open-source GUI for Dolby encoding engine (C/JavaScript/Electron)
