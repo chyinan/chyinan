@@ -63,6 +63,7 @@ const chyinan = {
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri">
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/PixiJS-E72264?style=for-the-badge&logo=pixi.js&logoColor=white" alt="PixiJS">
 </p>
 
 ### Backend & Tools
@@ -71,7 +72,6 @@ const chyinan = {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/WASAPI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WASAPI">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </p>
 
@@ -80,6 +80,7 @@ const chyinan = {
 ## 🌟 Featured Projects
 
 ### 🤖 AI & Machine Learning
+- **[Kokoro-Engine](https://github.com/chyinan/Kokoro-Engine)** - Cross-platform virtual character immersive interaction engine with Live2D, LLM, TTS & STT (TypeScript/React/Tauri/PixiJS)
 - **[WisePick](https://github.com/chyinan/WisePick)** - AI-powered intelligent shopping recommendation app (Dart)
 - **[EasyLora](https://github.com/chyinan/EasyLora)** - LoRA training and annotation tool (TypeScript/React/Python)
 - **[Gemini-Reverse](https://github.com/chyinan/Gemini-Reverse)** - AI reverse API project (Python)
