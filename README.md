@@ -5,7 +5,7 @@
   
   # 👋 Hi, I'm chyinan
   
-  ### 🎯 Android Geeker | Full-Stack Developer
+  ### 🎯 Geeker | Full-Stack Developer
   
   <p>
     <a href="https://github.com/chyinan">
@@ -24,7 +24,7 @@
 
 ```typescript
 const chyinan = {
-  role: "Android Geeker & Full-Stack Developer",
+  role: "Geeker & Full-Stack Developer",
   interests: [
     "Android Development",
     "Full-Stack Development", 
@@ -83,7 +83,7 @@ const chyinan = {
 - **[Kokoro-Engine](https://github.com/chyinan/Kokoro-Engine)** - Cross-platform virtual character immersive interaction engine with Live2D, LLM, TTS & STT (TypeScript/React/Tauri/PixiJS)
 - **[WisePick](https://github.com/chyinan/WisePick)** - AI-powered intelligent shopping recommendation app (Dart)
 - **[EasyLora](https://github.com/chyinan/EasyLora)** - LoRA training and annotation tool (TypeScript/React/Python)
-- **[Gemini-Reverse](https://github.com/chyinan/Gemini-Reverse)** - AI reverse API project (Python)
+- **[AetherFlow](https://github.com/chyinan/AetherFlow)** - Build AI-powered automation workflows with visual DAG orchestration, distributed microservices, and multimodal intelligence.
 
 ### 🎵 Music & Media
 - **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - 🎙️ Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
