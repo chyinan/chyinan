@@ -95,7 +95,6 @@ const chyinan = {
 ### 🌐 Web Applications
 - **[mini-rednote](https://github.com/chyinan/mini-rednote)** - Full-stack social sharing platform (Vue)
 - **[puresing](https://github.com/chyinan/puresing)** - Modern web-based KTV application (JavaScript)
-- **[IKUN_Manager](https://github.com/chyinan/IKUN_Manager)** - University unified information management system based on Vue3 + Element Plus + TypeScript (Vue/TypeScript/Electron)
 - **[Asset-Management-System](https://github.com/chyinan/Asset-Management-System)** - Java SpringBoot assignment project (Java/Vue)
 
 ### 🛠️ Tools & Automation
@@ -135,7 +134,7 @@ const chyinan = {
 - 🔭 Currently developing AI-powered applications and tools
 - 🌱 Learning cutting-edge technologies in the industry
 - 👯 Looking to collaborate on open source projects
-- 💬 Ask me about Android, frontend development, AI tools
+- 💬 Ask me about Android Hacking, frontend development, AI tools
 - 📫 How to reach me: chyinan2015@gmail.com
 - ⚡ Fun fact: I love Vibe Coding!
 
