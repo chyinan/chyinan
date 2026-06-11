@@ -82,8 +82,9 @@ const chyinan = {
 ### 🤖 AI & Machine Learning
 - **[Kokoro-Engine](https://github.com/chyinan/Kokoro-Engine)** - Cross-platform virtual character immersive interaction engine with Live2D, LLM, TTS & STT (TypeScript/React/Tauri/PixiJS)
 - **[WisePick](https://github.com/chyinan/WisePick)** - AI-powered intelligent shopping recommendation app (Dart)
+- **[AegisRAG](https://github.com/chyinan/AegisRAG)** - A high-performance RAG framework featuring hybrid retrieval, reranking, knowledge graph integration, and fully customizable retrieval pipelines.
 - **[EasyLora](https://github.com/chyinan/EasyLora)** - LoRA training and annotation tool (TypeScript/React/Python)
-- **[AetherFlow](https://github.com/chyinan/AetherFlow)** - Build AI-powered automation workflows with visual DAG orchestration, distributed microservices, and multimodal intelligence.
+- **[AetherFlow](https://github.com/chyinan/AetherFlow)** - A cloud-native AI workflow platform built with Spring Cloud, enabling visual DAG orchestration, distributed task execution, and multimodal AI automation.
 
 ### 🎵 Music & Media
 - **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - 🎙️ Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
