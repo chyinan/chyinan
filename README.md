@@ -31,12 +31,7 @@ const chyinan = {
     "AI & Machine Learning",
     "Music Mixing & Remaster",
     "Vibe Coding"
-  ],
-  achievements: ["YOLO", "Pull Shark", "Quickdraw"],
-  repositories: 41,
-  followers: 2,
-  following: 2
-};
+  ]
 ```
 
 ---
