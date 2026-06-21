@@ -7,15 +7,6 @@
   
   ### 🎯 Geeker | Full-Stack Developer
   
-  <p>
-    <a href="https://github.com/chyinan">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://github.com/chyinan?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-37-blue?style=for-the-badge" alt="Repositories">
-    </a>
-  </p>
-  
   ---
   
 </div>
