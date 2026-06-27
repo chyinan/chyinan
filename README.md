@@ -123,8 +123,7 @@ const chyinan = {
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about Android Hacking, frontend development, AI tools
 - 📫 How to reach me: chyinan2015@gmail.com
-- ⚡ Fun fact: I love Vibe Coding!
-I am seeking online or offline job opportunities overseas. Please email me if you are interested in my resume.
+- ⚡ Fun fact: I am seeking online or offline job opportunities overseas. Please email me if you are interested in my resume.
 ---
 
 <div align="center">
