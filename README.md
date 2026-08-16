@@ -74,8 +74,9 @@ const chyinan = {
 - **[AetherFlow](https://github.com/chyinan/AetherFlow)** - A cloud-native AI workflow platform built with Spring Cloud, enabling visual DAG orchestration, distributed task execution, and multimodal AI automation (Java/Vue/Spring Boot)
 
 ### 🎵 Music & Media
-- **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - 🎙️ Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
+- **[OpenJOC**](https://github.com/chyinan/OpenJOC)** - An independent open-source E-AC-3 JOC spatial audio decoder built from scratch in Rust, decoding object-based Dolby Atmos audio without proprietary Dolby SDKs
 - **[uvr-headless-runner](https://github.com/chyinan/uvr-headless-runner)** - Production-ready UVR5 CLI & Docker image for SOTA audio separation (Python)
+- **[Internal-Recorder](https://github.com/chyinan/Internal-Recorder)** - Simple, intuitive, high-quality Windows audio internal recording tool (Flutter/C++/WASAPI)
 - **[Soundscape](https://github.com/chyinan/Soundscape)** - Beautiful immersive music player (JavaScript/Tauri)
 - **[liquid-glass-music-player](https://github.com/chyinan/liquid-glass-music-player)** - Music player with "liquid glass" effect album covers (CSS)
 - **[dolby-encoder-gui](https://github.com/chyinan/dolby-encoder-gui)** - Open-source GUI for Dolby encoding engine (C/JavaScript/Electron)
