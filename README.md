@@ -96,28 +96,6 @@ const chyinan = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  ![YOLO](https://img.shields.io/badge/YOLO-Achievement-FFD700?style=for-the-badge)
-  ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-FFD700?style=for-the-badge)
-  ![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-FFD700?style=for-the-badge)
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chyinan&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-  
-</div>
-
----
-
 ## 🔥 Current Focus
 
 - 🔭 Currently developing AI-powered applications and tools
